@@ -21,7 +21,10 @@ En las siguientes capturas se mostrará todas las funciones de la página:
 1.1. El usuario y contraseña del login es admin (admin admin) o usuario (usuario usuario), por lo que si pones el usuario o la contraseña incorrectos ocurrirá lo siguiente: 
 ![Captura](https://user-images.githubusercontent.com/72436388/168580448-84e1146d-f539-46f2-9581-2f576883eb7a.PNG)
 
-1.2. Si desde la pagina de index.jsp se intenta entrar sin iniciar sesión y lo requiere como listarAlbum.jsp o listarDiscog.jsp a través de la barra de navegación se re
+1.2. Si desde la pagina de index.jsp se intenta entrar sin iniciar sesión y lo requiere como listarAlbum.jsp o listarDiscog.jsp a través de la barra de navegación te redigirá a la página inicial y te saldrá el siguiente mensaje:
+
+![Captura2](https://user-images.githubusercontent.com/72436388/168585539-2ba30127-620e-41e9-adb2-53518188fd83.PNG)
+
 
   - Si lo haces correctamente te llevará a la siguiente página: en la que te saludará según tu nombre de usuario y te permitirá ir directamente a la lista de álbumes o discográficas, o bien cerrar sesión directamente:
   ![ultima](https://user-images.githubusercontent.com/72436388/158382096-fc4a02d7-1ad9-4f0e-aa1c-e42019005654.PNG)
