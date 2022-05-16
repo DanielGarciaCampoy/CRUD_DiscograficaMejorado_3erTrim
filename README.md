@@ -18,8 +18,8 @@ En las siguientes capturas se mostrará todas las funciones de la página:
 1. Login: hay dos casillas: de usuario y contraseña
 ![Captura1](https://user-images.githubusercontent.com/72436388/155395619-efe1da93-6511-4a5f-b4a4-0dc940685c15.PNG)
 
-1.1. El usuario y contraseña del login es admin (admin admin), pero si pones usuario o contraseña incorrectos ocurrirá lo siguiente: 
-![1_1](https://user-images.githubusercontent.com/72436388/155396173-9d41b451-e16c-415d-8f65-b0c1332d0720.PNG)
+1.1. El usuario y contraseña del login es admin (admin admin) o usuario (usuario usuario), pero si pones el usuario o la contraseña incorrectos ocurrirá lo siguiente: 
+![Captura](https://user-images.githubusercontent.com/72436388/168580448-84e1146d-f539-46f2-9581-2f576883eb7a.PNG)
 
   - Si lo haces correctamente te llevará a la siguiente página: en la que te saludará según tu nombre de usuario y te permitirá ir directamente a la lista de álbumes o discográficas, o bien cerrar sesión directamente:
   ![ultima](https://user-images.githubusercontent.com/72436388/158382096-fc4a02d7-1ad9-4f0e-aa1c-e42019005654.PNG)
