@@ -61,7 +61,14 @@ En las siguientes capturas se mostrará todas las funciones de la página:
   (Todas las funciones de añadido, borrado y modificado funcionan igual para la tabla de discográficas)
 
 4. Excepciones:
-  4.1. Si intento añadir una linea con un codigo de álbum que ya existe ocurre lo siguiente:
+  4.1. Si intento añadir una álbum con un codigo de álbum que ya existe ocurre lo siguiente:
   ![41](https://user-images.githubusercontent.com/72436388/168656552-24949698-3991-42a9-b804-5e7d2c43efb3.PNG)
   ![repetido2](https://user-images.githubusercontent.com/72436388/155399784-aae02485-e6f1-4a5c-b69d-0d6263c4bfe6.PNG)
   (Detecta que se ha repetido y no lo sube)
+  
+  4.2. Si intento añadir un álbum con un código de discográfica que no existe ocurre lo siguiente:
+  ![42_1](https://user-images.githubusercontent.com/72436388/168656864-3e2cfb71-b5a1-4d44-ba88-d1161a880ee9.PNG)
+
+  ![42_2](https://user-images.githubusercontent.com/72436388/168656871-5d08612c-1863-4f1a-b5bd-7f96c18eb01d.PNG)
+
+  
