@@ -3,7 +3,7 @@
   Este repositorio contiene lo siguiente:
   - El código fuente del CRUD, que contiene 2 tablas, (álbumes y discográficas) (cada una con su clave primaria) cada una con sus opciones de listado, borrado, modificación y añadido, además de un login al principio. La tabla de álbum tiene una foreign key (CodDiscog), que es la primary key de Discográficas, por lo que al borrar una discográfica también se borran todos los álbumes asociados a este.
   - Archivo sql que respalda la base de datos
-  - Video explicativo en YouTube
+  - Video explicativo en YouTube: https://www.youtube.com/watch?v=JR45sA4Ouxk
 
 <h2>Fuentes</h2>
   Este proyecto de CRUD JSP ha sido realizado con lo siguiente:
