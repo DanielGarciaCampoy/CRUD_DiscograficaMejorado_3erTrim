@@ -41,6 +41,8 @@ En las siguientes capturas se mostrará todas las funciones de la página:
     
     Luego se puede comprobar que se ha borrado:
     ![3_11](https://user-images.githubusercontent.com/72436388/155398046-fb9c1de6-9118-43fc-b067-00bbe719857b.PNG)
+    
+    * Si se borra una discográfica, también se borrarán en cascade todos los álbumes que tengan el mismo CodDiscog
 
   3.2. Modificado: si pinchamos en modificar en cualquier línea saldrá lo siguiente (he añadido una más (album1prueba) para este ejemplo)
    ![Captura2](https://user-images.githubusercontent.com/72436388/155398552-d58f6f2c-4b9b-42b6-b7ac-36a8d3ad083f.PNG)
